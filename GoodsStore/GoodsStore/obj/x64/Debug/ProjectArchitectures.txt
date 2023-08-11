@@ -1,0 +1,1 @@
+C:\Users\egens\Desktop\ТЗ\SurfIT\GoodsStore\GoodsStore\GoodsStore.csproj;x64
